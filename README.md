@@ -1,2 +1,6 @@
-[yuzu.txt](https://github.com/Roxsim02/yuzu_gamechecker/files/7084657/yuzu.txt)
+
 # yuzu_gamechecker
+
+This simple python code could check NSP or XCA compatibility with yuzu (nintendo switch emulator).
+
+Just make sure to type the correct title 😄
